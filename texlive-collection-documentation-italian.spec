@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-italian
 Epoch:		1
 Version:	20120224
-Release:	9
+Release:	10
 Summary:	Italian documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
